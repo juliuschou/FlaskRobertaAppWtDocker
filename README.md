@@ -10,6 +10,10 @@ This guide outlines the process of creating a Flask application integrating RoBE
 
 follow the second section 2 to install Docker from [Comprehensive Guide to Building and Deploying a Flask and scikit-learn Application in a Docker Container on Ubuntu](https://github.com/juliuschou/helloContainerWithFlaskAndScikitLearnApp#comprehensive-guide-to-building-and-deploying-a-flask-and-scikit-learn-application-in-a-docker-container-on-ubuntu)
 
+## Environment
+- OS: Ubuntu 22.04.3 LTS
+- python: 3.7.17
+- docker: 24.0.6
 
 ## Step 1: Set Up the Project
 
